@@ -1,7 +1,7 @@
 # Docker-Cheat-Sheet
-[Setup](#Setup)
-[Linux](#Linux)
-[Window](#Window)
+[Setup](#Setup).
+[Linux](#Linux).
+[Window](#Window).
 
 
 ## Setup
